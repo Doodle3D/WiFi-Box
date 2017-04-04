@@ -1,0 +1,9 @@
+[submodule "print3d"]
+	path = print3d
+	url = git@github.com:Doodle3D/print3d.git
+[submodule "doodle3d-client"]
+	path = doodle3d-client
+	url = git@github.com:Doodle3D/doodle3d-client
+[submodule "doodle3d-firmware"]
+	path = doodle3d-firmware
+	url = git@github.com:Doodle3D/doodle3d-firmware
